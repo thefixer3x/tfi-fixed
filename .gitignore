@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# node
+node_modules/
+dist/
+build/
+
+# env files
+.env
+secret.env
